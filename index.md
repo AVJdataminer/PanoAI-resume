@@ -10,8 +10,8 @@
 
 ## Quick Links
 
-- [📄 Download Resume (PDF)](resume.pdf)
-- [✉️ Download Cover Letter (PDF)](cover-letter.pdf)
+- [📄 Download Resume (PDF)](AVJ-Resume.pdf)
+- [✉️ Download Cover Letter (PDF)](AVJ_CoverLetter.pdf)
 
 ---
 
