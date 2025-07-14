@@ -12,7 +12,6 @@
 
 - [📄 Download Resume (PDF)](/AVJ-Resume.pdf)
 - [✉️ Download Cover Letter (PDF)](/AVJ_CoverLetter.pdf)
-- [Cover Letter + Resume in 1 pdf(PDF)](/Aiden Johnson Cover Letter + Resume July 2025.pdf)
 ---
 
 ## About
