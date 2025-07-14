@@ -25,6 +25,7 @@ A former U.S. Army Reservist with 8 years of service, I bring a mission-first mi
 
 - [📄 Download Resume (PDF)](/AVJ-Resume.pdf)
 - [✉️ Download Cover Letter (PDF)](/AVJ_CoverLetter.pdf)
+  
 ---
 
 This site serves as a quick retrieval point for my professional resume and cover letter. Feel free to reach out if you would like to discuss AI/ML leadership, advanced model deployment, or climate tech innovations.
